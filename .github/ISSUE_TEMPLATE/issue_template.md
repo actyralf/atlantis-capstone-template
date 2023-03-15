@@ -20,7 +20,7 @@ labels: enhancement
 
 ## Acceptance Criteria
 
-- [ ] Describe every scenarios in detail
+- [ ] Describe every scenario in detail
 - [ ] e.g. all inputs are required, show warning if empty.
 - [ ] ...
       ​
